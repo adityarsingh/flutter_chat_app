@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "126331319146",
+    "firebase_url": "https://messagingapp-ca06c-default-rtdb.firebaseio.com",
+    "project_id": "messagingapp-ca06c",
+    "storage_bucket": "messagingapp-ca06c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126331319146:android:51a00d9980f15cc9392b13",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126331319146-8egvom4bqdsj8jjgeam50k9285dt1606.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "670d6ebb500ee398c37e235e29bc0ec20598ef61"
+          }
+        },
+        {
+          "client_id": "126331319146-plor27v6tqj8ek0mkv57r9g3r9sr5gm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4dJmY9SRwNhuZ11nhjR8ff03P8-4KpfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126331319146-plor27v6tqj8ek0mkv57r9g3r9sr5gm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
